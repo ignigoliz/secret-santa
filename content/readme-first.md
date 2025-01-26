@@ -33,4 +33,4 @@ It's simple. Each of us must:
 
 Once we are ready, let's get started 👇
 
-[Part 1 - Crawl ♪](/posts/part1)
+[Part 1 - Crawl ♪](/secret-santa/part1/)

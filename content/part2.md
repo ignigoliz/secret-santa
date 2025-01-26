@@ -21,6 +21,6 @@ Let's pick from the list above, choose a template from ([Mehackit>Templates](htt
 We will work individually and when the time is up, share our little creations
 
 **Note:**
-Feel free to explore advanced topics like **Chord Progressions** or **Variables** in [https://sonic-pi.mehackit.org/exercises/en/11-templates/01-examples.html]. Also feel to take a look at the official [SonicPi Guide]()
+Feel free to explore advanced topics like **Chord Progressions** or **Variables** in [Mehackit](https://sonic-pi.mehackit.org/exercises/en/11-templates/01-examples.html). Also feel to take a look at the official [SonicPi Guide](https://sonic-pi.net/tutorial.html)
 
 
