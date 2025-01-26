@@ -1,0 +1,7 @@
+baseURL = 'https://secret-santa-24.github.io'
+languageCode = 'en-us'
+title = 'Secret Santa - Aaron'
+theme = 'ardeidae'
+
+[params]
+dateform="2006-01-02"
