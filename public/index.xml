@@ -2,10 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Secret Santa - Aaron</title>
-    <link>http://localhost:1313/</link>
+    <link>https://secret-santa-24.github.io/</link>
     <description>Recent content on Secret Santa - Aaron</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jan 2025 10:30:00 +0100</lastBuildDate>
+    <atom:link href="https://secret-santa-24.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readme First 👀</title>
+      <link>https://secret-santa-24.github.io/readme-first/</link>
+      <pubDate>Sun, 26 Jan 2025 10:30:00 +0100</pubDate>
+      <guid>https://secret-santa-24.github.io/readme-first/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Have you dreamt of becoming a live musician but the huge amount of effort required to develop muscular memory puts you away?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Well, today is your lucky day!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;With &lt;strong&gt;SonicPi&lt;/strong&gt;, anyone can &lt;em&gt;code&lt;/em&gt; music. It&amp;rsquo;s easy and fun!!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://repository-images.githubusercontent.com/9746477/d9dc7900-5d90-11ea-91d1-e5a4a398be44#center&#34; alt=&#34;Sonic Pi&#34; title=&#34;700px&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Take a look at the following example of what you will be &lt;strong&gt;all&lt;/strong&gt; doing 👇&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/gRIGtGY21bk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h3 id=&#34;todays-workshop&#34;&gt;Today&amp;rsquo;s Workshop&amp;hellip;&lt;/h3&gt;&#xA;&lt;p&gt;At the end of today&amp;rsquo;s workshop, we will compose our first group piece. To do so:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 1 - Crawl ♪</title>
+      <link>https://secret-santa-24.github.io/part1/</link>
+      <pubDate>Sun, 26 Jan 2025 10:20:00 +0100</pubDate>
+      <guid>https://secret-santa-24.github.io/part1/</guid>
+      <description>&lt;h3 id=&#34;whats-is-it-even&#34;&gt;What&amp;rsquo;s is it even?&lt;/h3&gt;&#xA;&lt;p&gt;Sonic Pi is a coding tool that allows you to &amp;ldquo;live code&amp;rdquo; music. Live coding means you can be playing music and changing the code as you go, creating a seamless music experience.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learning--30&#34;&gt;Learning (~ 30&#39;)&lt;/h3&gt;&#xA;&lt;p&gt;This first part is introductory. Sonic Pi is new to all of us (in principle) so we will learn its basics together. We will use the  tutorial. Each of us must do the following:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 2 - Walk ♫</title>
+      <link>https://secret-santa-24.github.io/part2/</link>
+      <pubDate>Sun, 26 Jan 2025 10:10:00 +0100</pubDate>
+      <guid>https://secret-santa-24.github.io/part2/</guid>
+      <description>&lt;p&gt;Hopefully by now we know how to use SonicPi. Now it&amp;rsquo;s time to start creating.&lt;/p&gt;&#xA;&lt;h3 id=&#34;live-loops-and-samples-30&#34;&gt;Live loops and samples (~30&#39;)&lt;/h3&gt;&#xA;&lt;p&gt;It&amp;rsquo;s time to explore advanced topics in SonicPi: Live loops and Samples.&lt;/p&gt;&#xA;&lt;p&gt;To make it easier, we will be working on templates. However, each of us will modify their template focusing on a different aspect:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The bass&lt;/li&gt;&#xA;&lt;li&gt;The drums&lt;/li&gt;&#xA;&lt;li&gt;The lead voice&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s pick from the list above, choose a template from (&lt;a href=&#34;https://sonic-pi.mehackit.org/exercises/en/11-templates/01-examples.html&#34;&gt;Mehackit&amp;gt;Templates&lt;/a&gt;) and start remixing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 3 - Jam ♬</title>
+      <link>https://secret-santa-24.github.io/part3/</link>
+      <pubDate>Sun, 26 Jan 2025 10:00:00 +0100</pubDate>
+      <guid>https://secret-santa-24.github.io/part3/</guid>
+      <description>&lt;p&gt;Time to Jam 🎸💻🤘.&lt;/p&gt;&#xA;&lt;p&gt;The best creation happens spontaneously, but in case some structure helps let&amp;rsquo;s do the following:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Let&amp;rsquo;s listen together to our creations so far. Among them, let&amp;rsquo;s pick one or two ideas that work and exchange them.&lt;/li&gt;&#xA;&lt;li&gt;Let&amp;rsquo;s split again into &lt;em&gt;Bass&lt;/em&gt;, &lt;em&gt;Drums&lt;/em&gt; and &lt;em&gt;Lead&lt;/em&gt; and work individually in putting together several ideas for each topic.&lt;/li&gt;&#xA;&lt;li&gt;Lets come back together and make them all fit together.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
   </channel>
 </rss>
